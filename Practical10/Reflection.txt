@@ -1,0 +1,8 @@
+Practical 7: String and File Operation
+This practical strengthened my Python string and file handling skills. Writing code to find the longest ORF, detect in-frame stop codons in FASTA files, and count codon frequencies helped me connect programming with real bioinformatics tasks. I learned to process biological sequences efficiently and use regular expressions for pattern matching. Managing GitHub repositories also taught me to organize code clearly for assessment.
+Practical 8: Functions and Algorithms
+Defining a protein mass calculation function and a food_item class improved my understanding of modular programming. I practiced error checking for invalid amino acids and built a nutrition tracker with warning alerts. This practical made me realize how functions and classes simplify complex tasks. It also showed the importance of clear examples and robust input validation.
+Practical 9: Modelling Infections
+Implementing stochastic SIR models was challenging but rewarding. I built basic, vaccination, and spatial SIR models to simulate disease spread. Visualizing results with matplotlib helped me interpret epidemic dynamics. I understood how parameters like β and γ affect outcomes and how vaccination reduces infection peaks. This practical linked probability, coding, and public health intuitively.
+Practical 10: Global Health Data Analysis
+Using pandas to handle DALYs datasets taught me data manipulation and visualization. I filtered data, computed statistics, and plotted trends over time. Working with dataframes improved my ability to answer real-world health questions. I also learned to document my analysis clearly in question.txt. This practical showed how Python turns raw data into meaningful insights for global health.
