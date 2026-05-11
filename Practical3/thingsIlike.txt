@@ -1,0 +1,17 @@
+I like rain
+I like milk
+I like playing games
+I like cats
+I like cheese
+I like animation
+I don't like rainbow
+I like cakes
+<<<<<<< HEAD
+I like volleyball very much
+I like piano
+=======
+I like volleyball
+I like painting
+I like trees
+I like flowers
+>>>>>>> xjd
