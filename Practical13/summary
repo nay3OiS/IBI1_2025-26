@@ -1,0 +1,7 @@
+This practical focused on protein sequence comparison through online BLAST and a Python-based non-gapped global alignment with BLOSUM62. The human DLX5 protein is 289 amino acids in length and localised to the nucleus.
+
+BLAST analysis returned 250 hits, with sequence identities ranging from 52.3% to 100%. The identity between human and mouse DLX5 was measured at 96.5%.
+
+Three pairwise alignments were processed in Python. Human and mouse DLX5 yielded a high BLOSUM62 score and 96.5% identity. Alignments involving a random sequence produced low scores and near-random identity values.
+
+These results confirm human and mouse DLX5 are the most closely related, demonstrating clear evolutionary conservation and biological homology.

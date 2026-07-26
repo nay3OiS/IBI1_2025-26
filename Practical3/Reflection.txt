@@ -1,0 +1,4 @@
+Practical3 Reflection
+I learned basic Git commands like add, commit, push, branch and merge.
+The most difficult part is solving Git conflicts.
+I finished all steps successfully.

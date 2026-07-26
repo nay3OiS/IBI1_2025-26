@@ -1,0 +1,3 @@
+Question: What is the distribution of DALY rates across all countries globally in 2019?
+Code starts at line: 33
+Discussion: The global DALY rate distribution among countries in 2019 is highly right-skewed. Most countries have low DALY burden values. Lesotho is identified as the country with the highest DALY rate worldwide in 2019. According to Lesotho's historical trend chart, its DALY burden rose continuously from 1990 to reach a peak in 2005, and then declined steadily from 2005 to 2019. Only a tiny number of countries suffer from extremely high disease burdens, which demonstrates obvious inequality in global public health and disease burden distribution.
